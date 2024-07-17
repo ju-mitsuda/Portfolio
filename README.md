@@ -1,4 +1,4 @@
-# Olá! bem-vindo ao meu primeriro projeto, um portfolio simples feito com HTML e CSS.
+# Olá! bem-vindo ao meu primeiro projeto, um portfolio simples feito com HTML e CSS.
 ## Contexto:
 Este projeto foi desenvolvido de acordo com as instruções da aula de HTML e CSS para iniciantes da Alura, onde criamos este pequeno site responsivo.
 ## Ferramentas utilizadas
